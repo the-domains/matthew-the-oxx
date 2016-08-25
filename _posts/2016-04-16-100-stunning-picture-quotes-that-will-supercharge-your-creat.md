@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T05:52:47.898Z'
+datePublished: '2016-08-25T06:23:06.077Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -17,22 +17,19 @@ keywords:
   - picture
   - text
 related: []
-author: []
-dateModified: '2016-08-25T05:52:47.268Z'
-title: 100 Stunning Picture Quotes That Will Supercharge Your Creativity
+author:
+  - name: TRIP35
+via: {}
+dateModified: '2016-08-25T06:23:05.601Z'
+title: Brighton
 app_links: []
-publisher:
-  url: 'https://designschool.canva.com'
-  name: Design School
-  favicon: 'https://designschool.canva.com/wp-content/themes/canva/img/icons/favicon.ico'
-  domain: designschool.canva.com
-description: Find your next favorite quote rendered in stunning graphic design.
+publisher: {}
+description: 'Handmade movies, weird and wonky and '
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://designschool.canva.com/wp-content/uploads/sites/2/2016/03/QUOTES-1.png" /></article>
+![Handmade movies, weird and wonky and ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3536ffa9-62d3-44e7-80db-f5c7b44abb3a.jpg)
