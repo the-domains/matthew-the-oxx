@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-25T06:18:43.683Z'
+datePublished: '2016-08-25T06:18:24.934Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
+isBasedOnUrl: 'http://www.wired.com/2016/04/wild-shape-shifting-sofa-can-whatever-want/'
 authors: []
-hasPage: true
+hasPage: false
 keywords:
   - lift-bit
   - ratti
@@ -20,7 +21,7 @@ related: []
 author:
   - name: Trip 35
 via: {}
-dateModified: '2016-08-25T06:18:43.023Z'
+dateModified: '2016-08-25T06:18:24.478Z'
 title: East Sussex
 app_links: []
 publisher:
@@ -29,7 +30,6 @@ description: ''
 inLanguage: en
 inNav: false
 starred: false
-url: east-sussex/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
