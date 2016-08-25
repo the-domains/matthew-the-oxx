@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T06:25:55.551Z'
+datePublished: '2016-08-25T06:29:14.812Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
@@ -20,7 +20,7 @@ related: []
 author:
   - name: Trip 35
 via: {}
-dateModified: '2016-08-25T06:25:54.600Z'
+dateModified: '2016-08-25T06:29:14.215Z'
 title: East Sussex
 app_links: []
 publisher:
