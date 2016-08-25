@@ -12,4 +12,8 @@ color:
     - '#CBC6AB'
 layout_spectrum: 0.3458357136696577
 name: Matthew the Oxx
+navigation:
+  - name: POETRY
+    id: e2f9757a-a7c4-4ea2-9f9e-0955fd79c594
+    type: content
 description: Artist
