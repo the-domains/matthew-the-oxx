@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-25T06:14:33.402Z'
+datePublished: '2016-08-25T06:15:21.395Z'
 sourcePath: >-
   _posts/2016-04-16-5-must-visit-destinations-in-patagonia-for-modern-explorers.md
 inFeed: true
-isBasedOnUrl: 'http://mashable.com/2016/04/05/patagonia-adventure-travel/#GmuWjVf0GZqo'
-hasPage: false
+hasPage: true
 keywords:
   - glaciers
   - images
@@ -20,7 +19,7 @@ related: []
 author:
   - name: Melbourne
 via: {}
-dateModified: '2016-08-25T06:14:32.937Z'
+dateModified: '2016-08-25T06:15:20.712Z'
 title: I Am A Crow
 app_links: []
 publisher: {}
@@ -28,6 +27,7 @@ description: ''
 inLanguage: en
 inNav: false
 starred: false
+url: i-am-a-crow/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
