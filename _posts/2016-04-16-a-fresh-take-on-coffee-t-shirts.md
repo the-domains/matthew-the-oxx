@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-25T05:59:39.334Z'
+datePublished: '2016-08-25T06:08:53.946Z'
 sourcePath: _posts/2016-04-16-a-fresh-take-on-coffee-t-shirts.md
 inFeed: true
-isBasedOnUrl: 'http://sprudge.com/fresh-kaufee-coffee-t-shirts-66292.html'
-hasPage: false
+hasPage: true
 keywords:
   - kaufee
   - coffee
@@ -19,7 +18,7 @@ related: []
 author:
   - name: Stroud Fringe Festival
 via: {}
-dateModified: '2016-08-25T05:59:38.753Z'
+dateModified: '2016-08-25T06:08:53.543Z'
 title: ''
 app_links: []
 publisher:
@@ -30,6 +29,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: a-fresh-take-on-coffee-t-shirts/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
