@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-25T06:23:06.077Z'
+datePublished: '2016-08-25T06:23:55.008Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
-isBasedOnUrl: 'https://designschool.canva.com/blog/picture-quotes/'
-hasPage: false
+hasPage: true
 keywords:
   - quotes
   - graphic
@@ -20,7 +19,7 @@ related: []
 author:
   - name: TRIP35
 via: {}
-dateModified: '2016-08-25T06:23:05.601Z'
+dateModified: '2016-08-25T06:23:54.585Z'
 title: Brighton
 app_links: []
 publisher: {}
@@ -28,6 +27,7 @@ description: 'Handmade movies, weird and wonky and '
 inLanguage: en
 inNav: false
 starred: false
+url: brighton/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
