@@ -16,4 +16,7 @@ navigation:
   - name: POETRY
     id: e2f9757a-a7c4-4ea2-9f9e-0955fd79c594
     type: content
+  - name: SONGS
+    id: ed14004f-4257-462b-b545-ce1dfe2d925a
+    type: content
 description: Artist
