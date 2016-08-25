@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-25T05:52:47.900Z'
+datePublished: '2016-08-25T06:18:43.683Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
-isBasedOnUrl: 'http://www.wired.com/2016/04/wild-shape-shifting-sofa-can-whatever-want/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - lift-bit
   - ratti
@@ -19,29 +18,20 @@ keywords:
   - mode
 related: []
 author:
-  - name: Margaret Rhodes
-    url: 'http://www.wired.com/author/margaret-rhodes/'
-    avatar: {}
-dateModified: '2016-08-25T05:52:47.312Z'
-title: Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be
+  - name: Trip 35
+via: {}
+dateModified: '2016-08-25T06:18:43.023Z'
+title: East Sussex
 app_links: []
 publisher:
-  name: WIRED
-  domain: www.wired.com
-  url: 'http://www.wired.com'
-  favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
-description: >-
-  Carlo Ratti, who founded MIT's forward-thinking Senseable City Lab, has
-  designed a sofa called Lift-Bit. It is on display at La Triennale in Milan,
-  where innumerable furniture-makers showcase their work in an annual design
-  fair. Sofas (and chairs, for that matter) at Salone del Mobile are like fish
-  in an aquarium: plentiful and beautiful, but, after a while, hard to discern.
+  name: Matthew Oldfield
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
+url: east-sussex/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be</h1><p>Carlo Ratti, who founded MIT's forward-thinking Senseable City Lab, has designed a sofa called Lift-Bit. It is on display at La Triennale in Milan, where innumerable furniture-makers showcase their work in an annual design fair. Sofas (and chairs, for that matter) at Salone del Mobile are like fish in an aquarium: plentiful and beautiful, but, after a while, hard to discern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/878c309bc4bb2576485cf628acdf5521363f1166.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/511d8149-2db3-4cfd-b88f-058dc4f7a211.jpg)
