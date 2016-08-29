@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T08:32:02.537Z'
+datePublished: '2016-08-28T09:12:07.430Z'
 sourcePath: >-
   _posts/2016-04-16-5-must-visit-destinations-in-patagonia-for-modern-explorers.md
 inFeed: true
@@ -16,10 +16,9 @@ keywords:
   - fuego
   - tierra
 related: []
-author:
-  - name: Melbourne
+author: []
 via: {}
-dateModified: '2016-08-28T08:32:01.973Z'
+dateModified: '2016-08-28T09:12:05.009Z'
 title: the Songs
 app_links: []
 publisher: {}
