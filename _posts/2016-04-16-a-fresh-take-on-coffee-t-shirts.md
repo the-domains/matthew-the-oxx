@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T17:57:59.312Z'
+datePublished: '2016-08-28T18:00:54.525Z'
 sourcePath: _posts/2016-04-16-a-fresh-take-on-coffee-t-shirts.md
 inFeed: true
 hasPage: true
@@ -15,14 +15,12 @@ keywords:
   - shop
   - bag
 related: []
-author:
-  - name: Stroud Fringe Festival
+author: []
 via: {}
-dateModified: '2016-08-28T17:57:58.475Z'
+dateModified: '2016-08-28T18:00:54.040Z'
 title: Poetry is…
 app_links: []
-publisher:
-  name: Matthew Oldfield
+publisher: {}
 description: >-
   Words and words, an ever-flowing cascade of thoughts, dreams, blood, fire and
   wire...
