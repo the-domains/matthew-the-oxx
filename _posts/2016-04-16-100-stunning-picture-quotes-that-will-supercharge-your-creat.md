@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T09:20:03.419Z'
+datePublished: '2016-08-28T18:01:57.767Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -16,10 +16,9 @@ keywords:
   - picture
   - text
 related: []
-author:
-  - name: TRIP35
+author: []
 via: {}
-dateModified: '2016-08-28T09:20:02.662Z'
+dateModified: '2016-08-28T18:01:57.086Z'
 title: Brighton
 app_links: []
 publisher: {}
