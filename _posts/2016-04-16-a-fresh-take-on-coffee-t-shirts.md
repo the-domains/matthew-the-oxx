@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T18:00:54.525Z'
+datePublished: '2016-08-29T06:02:52.520Z'
 sourcePath: _posts/2016-04-16-a-fresh-take-on-coffee-t-shirts.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T18:00:54.040Z'
+dateModified: '2016-08-29T06:02:51.177Z'
 title: Poetry is…
 app_links: []
 publisher: {}
