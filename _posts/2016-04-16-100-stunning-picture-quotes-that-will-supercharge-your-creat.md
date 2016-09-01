@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T05:06:56.119Z'
+datePublished: '2016-08-30T05:09:26.532Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -18,8 +18,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T05:06:55.302Z'
-title: Brighton
+dateModified: '2016-08-30T05:09:26.101Z'
+title: Vidi
 app_links: []
 publisher: {}
 description: I Am A Crow
