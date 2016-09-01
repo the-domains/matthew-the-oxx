@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T17:53:53.908Z'
+datePublished: '2016-08-30T05:11:20.135Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
@@ -17,11 +17,10 @@ keywords:
   - furniture
   - mode
 related: []
-author:
-  - name: Trip 35
+author: []
 via: {}
-dateModified: '2016-08-28T17:53:53.413Z'
-title: East Sussex
+dateModified: '2016-08-30T05:11:18.976Z'
+title: photogras
 app_links: []
 publisher:
   name: Matthew Oldfield
