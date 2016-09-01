@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T18:01:57.767Z'
+datePublished: '2016-08-30T05:06:56.119Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T18:01:57.086Z'
+dateModified: '2016-08-30T05:06:55.302Z'
 title: Brighton
 app_links: []
 publisher: {}
@@ -35,4 +35,4 @@ _type: MediaObject
 
 I Am A Crow
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOwiAQANBfIbdbNFoHU7o5OdXNscBVSKCY4-jFv9foD7w3xIXmjEqi52CgP-9BBYzPwAaOhx5UJWcgML_qRWsR6d6lcbPYuZI1Zote704s90m2x-0K6sfZQh7JwBebUyqytJSqI8R1HPR_HD_HNinI" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS16_MLy0p1UtK1dc1KSkPCiwvi_R2BQCUnQn7" style=""></iframe>
