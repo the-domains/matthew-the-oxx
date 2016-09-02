@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T16:17:01.708Z'
+datePublished: '2016-08-30T16:18:33.454Z'
 sourcePath: _posts/2016-04-16-a-fresh-take-on-coffee-t-shirts.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-30T05:09:47.704Z'
+dateModified: '2016-08-30T16:18:32.911Z'
 title: Poetry is…
 app_links: []
 publisher: {}
@@ -36,8 +36,4 @@ _type: MediaObject
 
 Words and words, an ever-flowing cascade of thoughts, dreams, blood, fire and wire...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9420e63-1641-4fcb-803c-448c8a9653b2.jpg)
-
-This, our [bond][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c233ef07c78186f2ce2b049a9d89c6d2701f64e9.jpg)
-
-[0]: https://www.facebook.com/notes/matthew-the-oxx/this-our-bond/895459763882650
+![](https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/12108119_895460087215951_7228933140798587477_n.jpg?oh=b79ae91caf3a0feed0104f37bb453aa6&oe=584151EC)
