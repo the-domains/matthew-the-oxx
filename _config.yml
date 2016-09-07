@@ -25,5 +25,8 @@ navigation:
   - name: SONG
     id: 36b34daf-bc87-4e12-b26a-4811d21e9247
     type: content
+  - name: VIDi
+    id: cf5cda3a-2b8c-49c0-9381-f08f8244c304
+    type: content
 title: Matthew the Oxx
 description: ARTIST
