@@ -16,9 +16,6 @@ navigation:
   - name: POETRY
     id: e2f9757a-a7c4-4ea2-9f9e-0955fd79c594
     type: content
-  - name: PHOTOS
-    id: 44accf18-9c87-428a-a03e-1521c3f67405
-    type: content
   - name: SONG
     id: 36b34daf-bc87-4e12-b26a-4811d21e9247
     type: content
