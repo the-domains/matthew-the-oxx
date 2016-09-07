@@ -16,9 +16,6 @@ navigation:
   - name: POETRY
     id: e2f9757a-a7c4-4ea2-9f9e-0955fd79c594
     type: content
-  - name: VIDEO
-    id: cda854fa-2070-4460-b2e7-68d154693535
-    type: content
   - name: PHOTOS
     id: 44accf18-9c87-428a-a03e-1521c3f67405
     type: content
